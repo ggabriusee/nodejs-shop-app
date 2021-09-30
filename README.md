@@ -9,3 +9,4 @@ Kurti/keisti/perziureti/istrinti produktus. Taip pat juos isideti i krepseli ir 
 
 1. npm install
 2. npm start
+3. http://localhost:3000
