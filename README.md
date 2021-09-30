@@ -2,8 +2,8 @@
 
 work in progress...
 
-Internetines parduotuves app'as. Galima signup'inti ir buti adminu/useriu. 
-Kurti/keisti/perziureti/istrinti produktus. Taip pat juos isideti i krepseli ir uzsisakyti, perziureti uzsakymo saskaitos fakturos dokumenta.
+Internetinės parduotuvės app'as. Galima signup'inti ir būti adminu/useriu. 
+Kurti/keisti/peržiureti/ištrinti produktus. Taip pat juos isidėti į krepselį ir užsisakyti, peržiūreti užsakymo sąskaitos faktūros dokumentą.
 
 ### Pasileisti app'sa
 
